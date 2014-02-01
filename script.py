@@ -2,6 +2,8 @@
 
 # Camera trap script
 
+butts butts butts
+
 Read data file
 
 Run analysis
