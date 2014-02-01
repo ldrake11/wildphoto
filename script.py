@@ -12,3 +12,4 @@ Make header bold
 
 Make small figure, thick red line
 
+A few changes
