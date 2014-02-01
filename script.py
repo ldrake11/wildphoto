@@ -2,6 +2,8 @@
 
 # Camera trap script
 
+schwetty balls
+
 butts butts butts
 
 Read data file
