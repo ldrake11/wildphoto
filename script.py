@@ -6,6 +6,6 @@ Run analysis
 
 Make table
 
-Make head bold
+Make header bold
 
 Make small figure
